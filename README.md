@@ -27,12 +27,6 @@ An interactive data analysis dashboard designed to uncover patterns and historic
 
 ---
 
-## 📊 Dashboard Preview
-
-<!-- Add your dashboard screenshots below. Place images in an 'assets' or 'images' folder -->
-![IPL Dashboard Overview](assets/p3.mp4)
-
----
 
 ## 💡 Key Insights Uncovered
 
